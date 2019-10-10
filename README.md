@@ -31,6 +31,10 @@ The board has the following features.
 - A micro SD Socket Note: Grbl senders do not support SD cards yet, but most have a manual console where the command is easily typed. The WebUI fully supports the SD Card.
 - DC-DC power supply. There is a strong 3A DC-DC power supply to run the ESP32 if it is not connected to USB.
 
+### Getting a pre assembled one.
+
+This controller is generally available [for sale on Tindie](https://www.tindie.com/products/33366583/grbl_esp32-cnc-development-board-v35/).
+
 ### <a name="donation"></a>Donation
 
 This project requires a lot of work and often expensive items for testing. Please consider a safe, secure and highly appreciated donation via the PayPal link below.
