@@ -1,0 +1,23 @@
+RefDes,Value,Pattern,Quantity,Manufacturer,Mfg P/n,Link
+"C1, C6, C11",47u 35V,CAPAE-8.35x8.35h6.2,3,Nichicon,UWX1V470MCL1GB,https://www.digikey.com/short/ptwvbr
+"C2, C3, C4, C5, C7, C8, C9, C10, C12, C16, C17",100nF,CAP_0805,11,,,
+C13,10uF,CAP_1206,1,,,
+C14,150pF,CAP_0805,1,,,
+C15,22uF 6.3V,CAP_1206,1,,,
+D1,,b340a-13-f,1,Vishay SS2P2L-M3/84A,,https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Jiangsu-Yutai-Elec-B340A_C64982.html
+"J2, J4, J7, J9",,HDR-1x4,4,,,
+"J3, J8, J10",,HDR-1x8,2,,,
+J5,,HDR-1x19,2,,,
+J11,,PJ-102A,1,CUI,PJ-007,https://lcsc.com/product-detail/Power-Connectors_Korean-Hroparts-Elec-DC-005C-20A_C84007.html
+J20,,TF-01A,1,Korean Hroparts Elec TF-01A,,
+"JP1, JP2, JP3",,HDR-2x3,3,,,
+L1,4.7uH,Inductor 06030,1,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html
+"R1, R2, R3, R4, R17, R18",10k,RES_1206,4,,,
+"R5, R14",100k,RES_0805,2,,,
+"R6, R7, R8, R9, R10, R11, R12, R13",100,RES_1206,8,,,
+R15,40.2k,RES_0805,1,,,
+R16,210k,RES_0805,1,,,
+U1,ESP-32,ESP-32 NodeMCU 32S,1,(2) 1x19 Female Sockets,,
+"U2, U3, U4",,StepStick,3,(2) 1x8 Female Header,,
+U5,MP1584EN,MP1584EN,1,Monolithic Power Systems,MP1584EN-LF-Z,https://lcsc.com/product-detail/DC-DC-Converters_MPS_MP1584EN-LF-Z_MP1584EN-LF-Z_C15051.html
+U6,TXS0101DBVR,TXS0101DBVR,1,TI,TXS0101DBVR,https://lcsc.com/product-detail/Logic-ICs_TI_TXS0101DBVR_TXS0101DBVR_C132604.html
