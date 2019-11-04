@@ -36,6 +36,10 @@ The board has the following features.
 - Version 4.1
   - Same features, Changed pin numbers. GPIO_NUM_2 has an LED on some ESP32 modules. For some people that causes problems when it is used as an input (X Limit)
 
+### Getting a pre assembled one.
+
+This controller is generally available [for sale on Tindie]
+
 ### <a name="donation"></a>Donation
 
 This project requires a lot of work and often expensive items for testing. Please consider a safe, secure and highly appreciated donation via the PayPal link below.
